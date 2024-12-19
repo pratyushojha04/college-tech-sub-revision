@@ -828,9 +828,7 @@ Here are the interview questions along with detailed answers:
     import heapq
 
     class PriorityQueue:
-        def __init__(self
-
-):
+        def __init__(self):
             self.heap = []
 
         def push(self, item, priority):
